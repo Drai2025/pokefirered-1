@@ -272,6 +272,7 @@
 #define MAP_PALLET_TOWN_PLAYERS_HOUSE_2F   (1 | (4 << 8))
 #define MAP_PALLET_TOWN_RIVALS_HOUSE       (2 | (4 << 8))
 #define MAP_PALLET_TOWN_PROFESSOR_OAKS_LAB (3 | (4 << 8))
+#define MAP_NEW_MAP1                       (4 | (4 << 8))
 
 // gMapGroup_IndoorViridian
 #define MAP_VIRIDIAN_CITY_HOUSE             (0 | (5 << 8))
@@ -386,6 +387,7 @@
 #define MAP_ROUTE2_HOUSE                          (1 | (15 << 8))
 #define MAP_ROUTE2_EAST_BUILDING                  (2 | (15 << 8))
 #define MAP_ROUTE2_VIRIDIAN_FOREST_NORTH_ENTRANCE (3 | (15 << 8))
+#define MAP_NEW_MAP2                              (4 | (15 << 8))
 
 // gMapGroup_IndoorRoute4
 #define MAP_ROUTE4_POKEMON_CENTER_1F (0 | (16 << 8))
